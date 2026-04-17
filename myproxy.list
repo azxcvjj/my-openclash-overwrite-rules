@@ -25,6 +25,12 @@ DOMAIN-SUFFIX,facmata.net
 #PikPak网盘
 DOMAIN-KEYWORD,pikpak
 DOMAIN-KEYWORD,pickpack
+#Steam社区
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
 #本地PS5&Switch
 SRC-IP-CIDR,192.168.10.12/32
 SRC-IP-CIDR,192.168.10.14/32
